@@ -1,0 +1,16 @@
+poopy
+pants
+dio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+
+
+int main()
+{
+	printf("poopy\n");
+	sleep(10);
+	printf("pants\n");
+
+	return 0;
+}
